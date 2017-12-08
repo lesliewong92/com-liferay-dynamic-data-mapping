@@ -49,7 +49,7 @@ public class DDMFormBuilderSettingsRetrieverImpl
 			_ddmFormBuilderSettingsRetrieverHelper.
 				getDDMFieldSetDefinitionURL());
 		ddmFormBuilderSettings.setFieldSettingsDDMFormContextURL(
-			_ddmFormBuilderSettingsRetrieverHelper.
+			_ddmFormBuilderSettingsRetreiverHelper.
 				getDDMFieldSettingsDDMFormContextURL());
 		ddmFormBuilderSettings.setFormContextProviderURL(
 			_ddmFormBuilderSettingsRetrieverHelper.
